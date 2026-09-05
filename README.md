@@ -30,9 +30,9 @@ Unlike typical cloud STT services, Groq runs open-source models (from OpenAI, Me
 |---|---|
 | VDD | 3.3V |
 | GND | GND |
-| SD | *(update per your wiring diagram)* |
-| SCK | *(update per your wiring diagram)* |
-| WS | *(update per your wiring diagram)* |
+| SD | GPIO 4 |
+| SCK | GPIO 5 |
+| WS | GPIO 6 |
 | L/R | GND (left channel) |
 
 > See the video for the full connection diagram.
@@ -93,7 +93,7 @@ Get the ESP32 S3 and INMP441 mic at the lowest prices on our store:
 
 ## 📺 More Projects
 
-Check out [Techiesms on YouTube](https://youtube.com) for more ESP32, IoT, and embedded AI projects.
+Check out [Techiesms on YouTube](https://youtube.com/techiesms) for more ESP32, IoT, and embedded AI projects.
 
 ## 📄 License
 
